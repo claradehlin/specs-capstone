@@ -1,6 +1,6 @@
 # specs-capstone
 
-Ocd In Control
+Ocd In Control --
 An exposure and response prevention (ERP) based informative website
 
 MVPs: Users will be able to...
